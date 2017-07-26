@@ -10,7 +10,7 @@ My research involves integration of *statistics*, *operations research* and *inf
 
 ## Publications
 
-1. **Das, D.**, and Zhou, S. "Detecting Entropy Increase in Categorical Data Using Maximum Entropy Distribution Approximations", accepted in **IISE Transactions** (previously named IIE Transactions).
+1. **Das, D.**, and Zhou, S. "Detecting Entropy Increase in Categorical Data Using Maximum Entropy Distribution Approximations", accepted in **IISE Transactions ( Selected as feature article in IIE Magazine)** (previously named IIE Transactions).
 2. Sir, M. Y., Nestler, D., , Hellmich, T., **Das, D.**, Laughlin, M., Dohlman, M., Pasupathy, K.S., "Data-driven Optimization for Multi-disciplinary Staffing in Mayo Clinic Improves Patient Experience", accepted, **Interfaces**.
 3. **Das, D.**, Zhou, S., Chen, Y., and Horst, J. (2015) "Approximate Likelihood Inference for Monitoring Multivariate Count Data" **International Journal of Production Research**, vol. 54(21), pp. 6579-6593.
 4. **Das, D.**, Chen, Y., Zhou, S. and Sievenppiper, C. (2016) "Monitoring multiple binary data stream using a hierarchical model structure" 2015. **Quality Reliability Engineering Internationa**l, vol. 32(4), pp. 1307-1319.
