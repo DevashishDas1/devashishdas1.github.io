@@ -23,6 +23,6 @@ I am an assistant professor in the Department of Industrial & Management Systems
 
 ## <i class="fa fa-address-book" style="font-size:1em;"></i> Contact
 
-* <i class="fa fa-envelope-open" style="font-size:1em;"></i> <a href="mailto:devashishdas@usf.edu" target="_top">devashishdas@usf.edu</a>
+* <i class="fa fa-envelope-open" style="font-size:1em;"></i> devashishdas AT usf DOT edu
 * <i class="fa fa-twitter-square" style="font-size:1em;"></i> <a href="https://twitter.com/ddas_wisc" target="_top">twitter</a>
 <!-- * <i class="fa fa-phone" style="font-size:1em;"></i> +1 507 293 7023 -->
