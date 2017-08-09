@@ -5,7 +5,7 @@ layout: default
 # Devashish Das
 
 <p align="center">
-  <img src="fig.png" width = "200px">
+  <img src="devashish_das.jpg" width = "200px">
 </p>
 
 I am an assistant professor in the Department of Industrial & Management Systems Engineering at the University of South Florida (USF).
